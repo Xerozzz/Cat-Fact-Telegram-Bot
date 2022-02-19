@@ -1,6 +1,6 @@
 
 const Telegraf = require('telegraf').Telegraf;
-const bot = new Telegraf('5060672684:AAGMSnOk3R3E56SB7437-x0BkpSVRJUnTpQ');
+const bot = new Telegraf('<bot_token>');
 const axios = require('axios')
 const fs = require('fs')
 
